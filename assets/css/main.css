@@ -32,6 +32,11 @@
   background: #0000;
 }
 
+.responsive-img {
+  width: 100%;
+  height: auto;
+}
+
 /* line 39, ../../SAIFUL/Running_project/248. Magazine & News/assets/scss/_color.scss */
 .white-bg {
   background: #ffffff;
