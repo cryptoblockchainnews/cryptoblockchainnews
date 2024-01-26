@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 from oauth2client.service_account import ServiceAccountCredentials 
 import httplib2 
 import os
